@@ -2,7 +2,7 @@ import requests
 from pprint import pprint
 import json
 
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = 'access token here'
 ORG_NAME = 'McKenney-s-Inc-RPA'
 REPO_NAME = 'CylanceReport'
 
