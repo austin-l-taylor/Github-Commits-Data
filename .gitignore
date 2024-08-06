@@ -1,2 +1,6 @@
-#JSON Data
+# JSON AND CSV DATA
 *.json
+*.csv
+
+# Keys
+*.key
